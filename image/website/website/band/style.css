@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+nav {
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    background-color: black;   
+}
+li {
+    display: inline;
+    font-size: 1em ;
+    font-family: Arial;
+}
+li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+li a:hover {
+    background-color:blueviolet;
+}
+#img {
+    text-align: center;
+}
+#grey {
+    text-align: center;
+    color: gray;
+}
+    h1 {
+        text-align: center;
+    }
+    #first {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    #second {
+        margin-left: 420px;
+        display: inline-block;
+    }
+    #third {
+        margin-left: 70px;
+        display: inline-block;
+    }
+    #fourth {
+        margin-left:70px ;
+        display: inline-block;
+    }
+    #name {
+        margin-left: 450px;
+        display: inline-block;
+    }
+    #name1 {
+        margin-left:130px ;
+        display:inline-block ;
+    }
+    #name2 {
+        margin-left:130px ;
+        display:inline-block ;
+    }
+    #fifth {
+        background-color: black;
+        color: white;
+    }
+    h2 {
+        text-align: center;
+    }
+        #sixth {
+            background-color: white;
+            color: gray;
+            margin-left: 400px;
+            margin-right: 400px;
+        }
+        #sold {
+            display: inline;
+        }
+        span {
+            background-color: red;
+            color: white;
+            margin: 5px;
+            display: inline-block;
+        }
+        .seven {
+            background-color: white;
+            margin-right: 300px;
+            color: black;
+            display: inline-block;
+        }
+        #buy {
+            background-color: black;
+            color: white;
+            margin: 5px;
+            display: inline block;
+            padding: 5px;
+        }
+        #location {
+            display: inline;
+        }
+        #phone {
+            display: inline;
+        }
+        #email {
+            display: inline;
+        }
+        #contact {
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+        #contact h2 {
+            text-align: center;
+        }
+        #fan {
+            color: gray;
+            text-align: center;
+        }
+        #input {
+            display: inline-block;
+            margin-left: 200px;
+        }
+        #type {
+            display: inline-block;
+            margin-left: 100px;
+        }
+        #textinphoto {
+            text-align: center;
+            color: white;
+            margin: -90px;
+        }
+        .ty {
+            display: inline-flex;
+            gap: 1px;
+            padding: 50px;
+        }
+        #sd {
+            background-color: black;
+            color: white;
+            margin: 5px;
+            padding: 5px;
+            width: 45px;
+            margin-left: 780px;
+        }
+        #end {
+            margin-left: 50px;
+            margin-bottom: 50px;
+            margin-top: 50px;
+        }
